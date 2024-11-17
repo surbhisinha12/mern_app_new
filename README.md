@@ -1,6 +1,6 @@
 
 # Authenticated "MERN" App
-  This Authenticated app made by using MERN (MongoDB , Express js ,React js , Node js ), and I used ##Tailwind## for styling this pages
+  This Authenticated app made by using MERN (MongoDB , Express js ,React js , Node js ), and I used ##Tailwind## for styling these pages
   
   This app have Signup,login and Home pages.Which is routed by React Router.I am using react toastify library for showing Authentication msg.
   
