@@ -6,6 +6,10 @@
   
 
 
+## 🛠 Skills
+MongoDB , Express, React, Nodejs , Tailwind
+
+
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS
@@ -40,6 +44,7 @@ Start the server
 ```
 
 
-## 🛠 Skills
-MongoDB , Express, React, Nodejs , Tailwind
+
+
+
 
