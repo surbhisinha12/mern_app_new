@@ -26,7 +26,7 @@ import {ToastContainer} from 'react-toastify';
     }
     // return handleSuccess('successfully Submited');
     try {
-        const url = "http://localhost:8080/auth/signup";
+        const url = "https://mern-app-new.vercel.app/auth/signup";
         const response = await fetch(url , {
             method : "POST",
             headers:{
