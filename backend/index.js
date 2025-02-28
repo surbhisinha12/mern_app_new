@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 8080;
 app.use(bodyParser.json());
 app.use(cors());
 app.use(cors({
-  origin: 'https://mern-app-new-frontend.vercel.app/login'
+  origin: 'https://mern-app-new-backend.vercel.app/'
 }));
 app.use('/auth',  AuthRouter);
 app.use('/products' ,ProductRouter);
